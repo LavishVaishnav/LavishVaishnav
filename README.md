@@ -1,21 +1,74 @@
-<h1 align="center">Hello 👋🏻,  I'm Lavish Vaishnav</h1>
+<h1 align="center">Hello, I'm Lavish Vaishnav</h1>
 <h3 align="center">Enthusiastic about problem-solving and algorithmic challenges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavishvaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="lavishvaishnav" /> </p>
-
-- 🔭 I’m currently working on [Visonary Navigator](https://github.com/LavishVaishnav/Mini-Project)
-
-- 💬 Ask me about **DataStructure & Algorithms**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lavishvaishnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavishvaishnav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lavishvaishnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lavishvaishnav" height="30" width="40" /></a>
+<p align="center">
+  As a third-year undergraduate engineering student, I am an enthusiast passionate about Data Structures and Algorithms and an ambitious problem solver. If it's about optimizing performance or simplifying complexity, that’s where I thrive.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lavishvaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="lavishvaishnav" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavishvaishnav&show_icons=true&locale=en&layout=compact" alt="lavishvaishnav" /></p>
+- I’m currently working on enhancing my backend skills with **Java** and **Spring Boot**.
+- I have hands-on experience with cutting-edge technologies such as **Machine Learning**, **Computer Vision**, and **Deep Learning**.
+- I thrive in **Data Structures & Algorithms (DSA)** and core **Computer Science fundamentals**, including **System Design**.
+- I'm passionate about tackling complex problems through coding and using automation to boost productivity and efficiency.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavishvaishnav&show_icons=true&locale=en" alt="lavishvaishnav" /></p>
+<h3 align="left">Programming Languages and Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV Badge"/>
+  <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot Badge"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask Badge"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap Badge"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazon&logoColor=white&style=for-the-badge" alt="AWS EC2 Badge"/>
+</p>
+
+<h3 align="left">CS Fundamentals:</h3>
+<ul>
+  <li>Data Structures & Algorithms (DSA)</li>
+  <li>OOPS (Object-Oriented Programming)</li>
+  <li>DBMS (Database Management Systems)</li>
+  <li>Operating Systems</li>
+  <li>Computer Networks</li>
+  <li>System Design</li>
+</ul>
+
+<h3 align="left">AI & Data Science:</h3>
+<ul>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>TensorFlow, Keras, Scikit-learn</li>
+  <li>Computer Vision</li>
+  <li>Natural Language Processing (NLP)</li>
+</ul>
+
+<h3 align="left">Soft Skills:</h3>
+<ul>
+  <li>Leadership</li>
+  <li>Public Speaking</li>
+  <li>Content Writing</li>
+</ul>
+
+### "The only way to do great work is to love what you do." — Steve Jobs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lavishvaishnav&show_icons=true&theme=radical" alt="Lavish Vaishnav's GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavishvaishnav&theme=radical" alt="GitHub Streak" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lavishvaishnav&theme=onedark&row=1&column=7" alt="Trophies"/>
+</p>
+
+<h3 align="left"> A Glimpse of Me in Action:</h3>
+<p align="left">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
+
