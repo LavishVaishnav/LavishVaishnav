@@ -39,7 +39,16 @@
   <li>Computer Networks</li>
   <li>System Design</li>
 </ul>
-
+<h3 align="left">Software Development:</h3>
+<ul>
+  <li>Java</li>
+  <li>SpringBoot</li>
+  <li>Software Design</li>
+  <li>Algorithms</li>
+  <li>Microservices</li>
+  <li>FastAPI</li>
+  <li>Software Development Lifecycle</li>
+</ul>
 <h3 align="left">AI & Data Science:</h3>
 <ul>
   <li>Machine Learning</li>
