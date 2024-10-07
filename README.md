@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic about problem-solving and algorithmic challenges.</h3>
 
 <p align="center">
-  As a third-year undergraduate engineering student, I am an enthusiast passionate about Data Structures and Algorithms and an ambitious problem solver. If it's about optimizing performance or simplifying complexity, that’s where I thrive.
+As a third-year undergraduate engineering student, I am passionate about Data Structures & Algorithms and thrive on solving complex problems, especially when it comes to optimizing performance and simplifying complexity.
 </p>
 
 <p align="center">
