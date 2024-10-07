@@ -17,18 +17,22 @@ As a third-year undergraduate engineering student, I am passionate about Data St
 <h3 align="left">Programming Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow Badge"/>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV Badge"/>
   <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot Badge"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV Badge"/>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django Badge"/>
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask Badge"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap Badge"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazon&logoColor=white&style=for-the-badge" alt="AWS EC2 Badge"/>
+  <img src="https://img.shields.io/badge/-Apache_Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" alt="Apache Kafka Badge"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker Badge"/>
+  <img src="https://img.shields.io/badge/-Beans-FFDD00?logo=spring&logoColor=white&style=for-the-badge" alt="Beans Badge"/>
+  <img src="https://img.shields.io/badge/-Groovy-4298B8?logo=apachegroovy&logoColor=white&style=for-the-badge" alt="Groovy Badge"/>
+  <img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" alt="Gradle Badge"/>
+  <img src="https://img.shields.io/badge/-REST_APIs-FF5733?logo=rest&logoColor=white&style=for-the-badge" alt="REST APIs Badge"/>
 </p>
+
 
 <h3 align="left">CS Fundamentals:</h3>
 <ul>
@@ -86,10 +90,5 @@ As a third-year undergraduate engineering student, I am passionate about Data St
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lavishvaishnav&theme=onedark&row=1&column=7" alt="Trophies"/>
-</p>
-
-<h3 align="left"> A Glimpse of Me in Action:</h3>
-<p align="left">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Coding GIF"/>
 </p>
 
