@@ -18,6 +18,7 @@ As a third-year undergraduate engineering student, I am passionate about Data St
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI Badge"/>
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot Badge"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow Badge"/>
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV Badge"/>
