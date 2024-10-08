@@ -10,7 +10,7 @@ As a third-year undergraduate engineering student, I am passionate about Data St
 </p>
 
 - I’m currently working on enhancing my backend skills with **Java** and **Spring Boot**.
-- I have hands-on experience with cutting-edge technologies such as **Machine Learning**, **Computer Vision**, and **Deep Learning**.
+- I have hands-on experience with cutting-edge technologies such as **FastAPI**,**Machine Learning**, **Computer Vision**, and **Deep Learning**.
 - I thrive in **Data Structures & Algorithms (DSA)** and core **Computer Science fundamentals**, including **System Design**.
 - I'm passionate about tackling complex problems through coding and using automation to boost productivity and efficiency.
 
