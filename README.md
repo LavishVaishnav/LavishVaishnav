@@ -60,7 +60,6 @@ As a third-year undergraduate engineering student, I am passionate about Data St
   <li>Deep Learning</li>
   <li>TensorFlow, Keras, Scikit-learn</li>
   <li>Computer Vision</li>
-  <li>Natural Language Processing (NLP)</li>
 </ul>
 
 <h3 align="left">Soft Skills:</h3>
