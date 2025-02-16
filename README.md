@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer Intern at Walmart Global Tech</h3>
 
 <p align="center">
-As a third-year undergraduate engineering student, I am passionate about Data Structures & Algorithms and thrive on solving complex problems, especially when it comes to optimizing performance and simplifying complexity.
+As a final year undergraduate engineering student, I am passionate about Data Structures & Algorithms and thrive on solving complex problems, especially when it comes to optimizing performance and simplifying complexity.
 </p>
 
 <p align="center">
