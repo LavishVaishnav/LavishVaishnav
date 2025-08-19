@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Lavish Vaishnav</h1>
-<h3 align="center">Software Engineer Intern at Walmart Global Tech</h3>
+<h3 align="center">SWE II at Walmart Global Tech</h3>
 
 <p align="center">
-As a final year undergraduate engineering student, I am passionate about Data Structures & Algorithms and thrive on solving complex problems, especially when it comes to optimizing performance and simplifying complexity.
+I am passionate about Data Structures & Algorithms and thrive on solving problems, especially when it comes to optimizing performance and simplifying complexity.
 </p>
 
 <p align="center">
